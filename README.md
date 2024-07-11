@@ -1,9 +1,20 @@
 # React Dynamic Form Builder
 ## Description 
 A comprehensive form-building application in React JS, covering everything from basic text fields to advanced elements like dropdowns, email fields, description areas, and file uploads. This project includes implementation details for reset and submit buttons to ensure full form functionality.
+Table of Contents
+- [React Dynamic Form Builder](#react-dynamic-form-builder)
+  - [Description](#description)
+  - [Features](#features)
+  - [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Components](#components)
+  - [Contributing](#contributing)
+  - [Credits](#credits)
+  - [License](#license)
 
-Features
-Basic text fields
+## Features
 Dropdown menus
 Email fields
 Description areas (textarea)
@@ -38,7 +49,7 @@ Using yarn:
 bash
 
 yarn install
-Running the Application
+
 Start the development server:
 
 Using npm:
