@@ -20,7 +20,23 @@ function App() {
           <input type="radio" name='gender' /> Male
           <input type="radio" name='gender' /> Female
           <input type="radio" name='gender' /> Other
-          
+          <label htmlFor='subjects'>Subjects</label>
+          <select name='subjects' id='subjects'>
+            <option value="english">English</option>
+            <option value="maths">Maths</option>
+            <option value="physics">Physics</option>
+            <option value="chemistry">Chemistry</option>
+            <label htmlFor='resume'>Resume</label>
+          </select>
+          <input type="file" placeholder='Upload your resume' name='resume' />
+          <label htmlFor='url'>URL</label>
+          <input type="text" name='url' placeholder='Enter your url' />
+          <label htmlFor='about'>About</label>
+          <textarea name='about' id='about' cols="30" rows="10" placeholder='Write a description'></textarea>
+          <button type='reset'>Reset</button>
+          <button type='submit'>Submit</button>
+
+
           
 
 
