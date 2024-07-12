@@ -68,7 +68,10 @@ Open your browser and navigate to http://localhost:3000 to see the application i
 This application provides a dynamic form builder. You can add various form elements such as text fields, dropdowns, email fields, description areas, and file uploads. The form includes reset and submit functionality to manage form state effectively.
 
 The screenshot for the app is found here:
-![Here is a screenshot]()
+![Here is a screenshot](./src/assets/form-screenshot.png)
+
+And with some bootsrap:
+![This is a version with some bootsrap:](./src/assets/latest-screenshot.png)
 ## Components
 TextField: A basic input field for text.
 Dropdown: A select element for choosing options.
